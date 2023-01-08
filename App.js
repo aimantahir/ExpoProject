@@ -56,17 +56,3 @@ const styles = StyleSheet.create({
   },
 });
 
-
-
-
-
-
-
-
-
-
-
-Jot something down
-
-
-
